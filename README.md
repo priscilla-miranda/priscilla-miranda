@@ -14,5 +14,3 @@ Sou uma profissional em transição de carreira, dedicada à tecnologia, atualme
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priscilla-miranda&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
