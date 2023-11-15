@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Priscilla Miranda !
-Sou uma profissional em transição de carreira, dedicada à tecnologia, atualmente no terceiro período em Análise e Desenvolvimento de carreira Sistemas (ADS) e cursando simultaneamente o curso fullstack. No momento, estou focado no estudo Java e buscando aprimorar minhas habilidades de programação para dominar o back-end. Minha jornada na área de desenvolvimento teve início recentemente, com projetos que exploram as potencialidades do JavaScript, HTML e CSS.<br><br><br>Além disso, atuo como corretora de seguros, onde adquiri habilidades valiosas, tais como trabalho em equipe, pensamento crítico, comunicação eficaz, atitude positiva e organização.
+# 💫 Olá 👋, Meu nome é Priscilla Miranda !
+Tenho 38 anos, sou uma profissional em transição de carreira, dedicada à tecnologia, atualmente no terceiro período em Análise e Desenvolvimento de carreira Sistemas (ADS) na IBMR e simultaneamente cursando na EBAC o curso fullstack Java. Minha jornada na área de desenvolvimento teve início recentemente, com projetos que exploram as potencialidades do JavaScript, HTML e CSS.<br><br><br>Além disso, atuo como corretora de seguros, onde adquiri habilidades valiosas, tais como trabalho em equipe, pensamento crítico, comunicação eficaz, atitude positiva e organização.
 
 
 ## 🌐 Socials:
